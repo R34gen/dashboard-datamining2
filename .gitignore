@@ -1,0 +1,6 @@
+# File sementara
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.log
